@@ -7,42 +7,27 @@ connectivity with MySQL as backend. Define complete structure of the project wit
 
 🚀 Features
 Complete CRUD Operations: Add, Update, Delete, and Display Employee Details                                  
-
-Advanced Search: Search employee records by ID
-
-Comprehensive Reports: Generate various reports including:
-
-  *.Employees whose names start with a specific letter
-  
-  *.Employees with N or more years of service
-  
-  *.Employees earning more than a specified salary
-  
-Input Validation: Client-side and server-side validation
-
-Professional UI: Bootstrap-based responsive design
-
-MVC Architecture: Clean separation of concerns
-
-Database Integration: MySQL with JDBC connectivity
+Advanced Search: Search employee records by ID                                                           
+Comprehensive Reports: Generate various reports including:                                   
+  *.Employees whose names start with a specific letter                                   
+  *.Employees with N or more years of service                                                           
+  *.Employees earning more than a specified salary                                                             
+Input Validation: Client-side and server-side validation                                    
+Professional UI: Bootstrap-based responsive design                                                  
+MVC Architecture: Clean separation of concerns                                                    
+Database Integration: MySQL with JDBC connectivity                                                                  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📋 Prerequisites
-
-Before running this application, make sure you have the following installed:
-
-   *. Java Development Kit (JDK) 8 or higher
-
-   *. Apache Tomcat 9.0 or higher
-   
-   *. MySQL Server 5.7 or XAMP Server
-   
-   *. MySQL JDBC Driver (mysql-connector-java)
-   
-   *. IDE: Eclipse (J2EE), IntelliJ IDEA, or any Java IDE
-   
-   *. Web Browser: Chrome, Firefox, or Edge
+ 
+Before running this application, make sure you have the following installed:                                              
+   *. Java Development Kit (JDK) 8 or higher                                     
+   *. Apache Tomcat 9.0 or higher                                                
+   *. MySQL Server 5.7 or XAMP Server                             
+   *. MySQL JDBC Driver (mysql-connector-java)                                                          
+   *. IDE: Eclipse (J2EE), IntelliJ IDEA, or any Java IDE                                                         
+   *. Web Browser: Chrome, Firefox, or Edge                                                                                
 
 ___
 
