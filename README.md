@@ -6,7 +6,7 @@ connectivity with MySQL as backend. Define complete structure of the project wit
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🚀 Features
-Complete CRUD Operations: Add, Update, Delete, and Display Employee Details
+Complete CRUD Operations: Add, Update, Delete, and Display Employee Details                                  
 
 Advanced Search: Search employee records by ID
 
@@ -46,16 +46,16 @@ Before running this application, make sure you have the following installed:
 
 ___
 
-Project Specification and its structure
-CREATE TABLE Employee (
-Empno INT PRIMARY KEY,
-EmpName VARCHAR(100),
-DoJ DATE,
-Gender VARCHAR(10),
-Bsalary DECIMAL(10,2)
-);
+Project Specification and its structure                                                                          
+CREATE TABLE Employee (                                                                                                             
+Empno INT PRIMARY KEY,                                                                                                                                                                                           
+EmpName VARCHAR(100),                                                                                                                     
+DoJ DATE,                                                                                                                                                                                                        
+Gender VARCHAR(10),                                                                      
+Bsalary DECIMAL(10,2)                                                                 
+);                                                                                                           
 
--------------------------------------------------------------------------------------------------------------
+______
 
 🛠️ Project Structure
 
