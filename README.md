@@ -59,32 +59,34 @@ ______
 
 🛠️ Project Structure
 
-EmployeeWebApp/
-├── WebContent/
-│ ├── index.jsp
-│ ├── empadd.jsp
-│ ├── empupdate.jsp
-│ ├── empdelete.jsp
-│ ├── empdisplay.jsp
-│ ├── reports.jsp <-- New page for reports
-│ ├── report_form.jsp <-- Form to select report criteria
-│ └── report_result.jsp <-- Display report results
-├── src/
-│ ├── com/
-│ ├── dao/
-│ │ └── EmployeeDAO.java
-│ ├── model/
-│ │ └── Employee.java
-│ └── servlet/
-│ ├── AddEmployeeServlet.java
-│ ├── UpdateEmployeeServlet.java
-│ ├── DeleteEmployeeServlet.java
-│ ├── DisplayEmployeeServlet.java
-│ ├── ReportServlet.java <-- servlet for reports
-│ └── ReportCriteriaServlet.java <-- To handle report form submissions
-└── WEB-INF/
-└── web.xml
+EmployeeWebApp/                                          
+├── WebContent/                                             
+│ ├── index.jsp                                               
+│ ├── empadd.jsp                                                             
+│ ├── empupdate.jsp                                                           
+│ ├── empdelete.jsp                                                                
+│ ├── empdisplay.jsp                                                                 
+│ ├── reports.jsp <-- New page for reports                                                            
+│ ├── report_form.jsp <-- Form to select report criteria                                                     
+│ └── report_result.jsp <-- Display report results                                                               
+├── src/                                                               
+│ ├── com/                                                                              
+│ ├── dao/                                                                           
+│ │ └── EmployeeDAO.java                                                                                     
+│ ├── model/                                        
+│ │ └── Employee.java                                                  
+│ └── servlet/                                                                  
+│ ├── AddEmployeeServlet.java                                                                  
+│ ├── UpdateEmployeeServlet.java                                                                        
+│ ├── DeleteEmployeeServlet.java                                                                            
+│ ├── DisplayEmployeeServlet.java                                                                               
+│ ├── ReportServlet.java <-- servlet for reports                                                                                     
+│ └── ReportCriteriaServlet.java <-- To handle report form submissions                                                                                      
+└── WEB-INF/                                                                                                               
+└── web.xml                                                                                                                     
+ 
+_________
 
-------------------------------------------------------------------------------------------------------------------
+
 
 
