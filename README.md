@@ -90,5 +90,16 @@ _________
 
 🖼️ Screenshots
 
+![image alt](https://github.com/abhiishek-b/Employee_Salary_Management_System/blob/main/Output_screenshots/Employee_management_System.jpg)
+
 ![image alt](https://github.com/abhiishek-b/Employee_Salary_Management_System/blob/main/Output_screenshots/Add_Employee.jpg)
 
+![image alt](https://github.com/abhiishek-b/Employee_Salary_Management_System/blob/main/Output_screenshots/Delete_employee.jpg)
+
+![image alt](https://github.com/abhiishek-b/Employee_Salary_Management_System/blob/main/Output_screenshots/Update_Employee.jpg)
+
+![image alt](https://github.com/abhiishek-b/Employee_Salary_Management_System/blob/main/Output_screenshots/employee_report.jpg)
+
+![image alt](https://github.com/abhiishek-b/Employee_Salary_Management_System/blob/main/Output_screenshots/report_result.jpg)
+
+_____
