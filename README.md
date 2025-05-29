@@ -44,10 +44,9 @@ Before running this application, make sure you have the following installed:
    
    *. Web Browser: Chrome, Firefox, or Edge
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
 
 Project Specification and its structure
-
 CREATE TABLE Employee (
 Empno INT PRIMARY KEY,
 EmpName VARCHAR(100),
@@ -55,6 +54,36 @@ DoJ DATE,
 Gender VARCHAR(10),
 Bsalary DECIMAL(10,2)
 );
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Project Structure
+
+EmployeeWebApp/
+├── WebContent/
+│ ├── index.jsp
+│ ├── empadd.jsp
+│ ├── empupdate.jsp
+│ ├── empdelete.jsp
+│ ├── empdisplay.jsp
+│ ├── reports.jsp <-- New page for reports
+│ ├── report_form.jsp <-- Form to select report criteria
+│ └── report_result.jsp <-- Display report results
+├── src/
+│ ├── com/
+│ ├── dao/
+│ │ └── EmployeeDAO.java
+│ ├── model/
+│ │ └── Employee.java
+│ └── servlet/
+│ ├── AddEmployeeServlet.java
+│ ├── UpdateEmployeeServlet.java
+│ ├── DeleteEmployeeServlet.java
+│ ├── DisplayEmployeeServlet.java
+│ ├── ReportServlet.java <-- servlet for reports
+│ └── ReportCriteriaServlet.java <-- To handle report form submissions
+└── WEB-INF/
+└── web.xml
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
