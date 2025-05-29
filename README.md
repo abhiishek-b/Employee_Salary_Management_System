@@ -90,5 +90,5 @@ _________
 
 🖼️ Screenshots
 
-![image alt]()
+![image alt](https://github.com/abhiishek-b/Employee_Salary_Management_System/blob/main/Output_screenshots/Add_Employee.jpg)
 
